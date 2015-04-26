@@ -1,0 +1,10 @@
+[Exe2Bat]
+choisir=Choose the file to decompile :
+ext=Executable files (*.exe)
+lefichier=The file '
+nexistepas=' does not exist !
+termine=Decompilation is complete.
+code=Enter the code file :
+erreur=The code entered is invalid !
+fin=The file was decompiled and placed in the same folder as the executable.
+erreur2=An error has occurred and the file have not been decompiled !

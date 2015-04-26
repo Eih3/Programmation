@@ -1,0 +1,59 @@
+2013-08-23 18:13:25 : Start-LogSystemConfig
+2013-08-23 18:13:25 : End-LogSystemConfig
+2013-08-23 18:13:25 : 
+--------------------------------  System Config  --------------------------------
+LiLi USB Creator : 2.8
+Compatibility List Version : 2.8.23
+Unique ID : HLXUOAKUCJSX
+OS Type : WIN32_NT
+OS Version : Windows 7 Professional
+OS Build : 7601
+OS Service Pack : Service Pack 1
+OS Lang :  French_Standard (040C)
+Language : French_Standard (040C)
+Font size : 8.5
+Architecture : X64
+Memory : 4044MB  ( with 60% free = 2404MB )
+Keyboard : 0000040C
+Resolution : 1600x900
+Proxy settings : Use system settings
+Step Status : (STEP1=OK) (STEP2=OK) (STEP3=OK) 
+------------------------------  End of system config  ------------------------------
+2013-08-23 18:13:25 : Starting LiLi USB Creator 2.8 Update 23
+2013-08-23 18:13:26 : Checking for update, LiLi's server answer = Last stable : 2.8 (2.8.23) / Last Beta : 2.8 Beta (2.8.0) / Last Virtualbox : 4.2.12.0 (4.2.12)
+2013-08-23 18:13:26 : Current software version is up to date
+2013-08-23 18:13:26 : Current compatibility list version is up to date
+2013-08-23 18:13:26 : No VirtualBox folder. Default size is 140MB
+2013-08-23 18:13:26 : Start-Get_Compatibility_List
+2013-08-23 18:13:26 : END-Get_Compatibility_List : Loaded 434 items in 0.421 seconds
+2013-08-23 18:13:50 : GDI+ started up successfully
+2013-08-23 18:13:50 : Creating GUI
+2013-08-23 18:13:50 : Creating GUI (buttons)
+2013-08-23 18:13:50 : Start-Refresh_DriveList
+2013-08-23 18:13:50 : Start-Refresh_DriveList-Removable Listed
+2013-08-23 18:13:50 : Start-Refresh_DriveList-2
+2013-08-23 18:13:50 : End-Refresh_DriveList
+2013-08-23 18:13:50 : stats-id=HLXUOAKUCJSX&version=2.8&os=WIN_SEVEN-X64-Service Pack 1&lang=French_Standard
+2013-08-23 18:13:50 : Start-LogSystemConfig
+2013-08-23 18:13:50 : End-LogSystemConfig
+2013-08-23 18:13:50 : 
+--------------------------------  System Config  --------------------------------
+LiLi USB Creator : 2.8
+Compatibility List Version : 2.8.23
+Unique ID : HLXUOAKUCJSX
+OS Type : WIN32_NT
+OS Version : Windows 7 Professional
+OS Build : 7601
+OS Service Pack : Service Pack 1
+OS Lang :  French_Standard (040C)
+Language : French_Standard (040C)
+Font size : 8.5
+Architecture : X64
+Memory : 4044MB  ( with 61% free = 2462MB )
+Keyboard : 0000040C
+Resolution : 1600x900
+Proxy settings : Use system settings
+Step Status : (STEP1=OK) (STEP2=OK) (STEP3=NOT OK) 
+------------------------------  End of system config  ------------------------------
+2013-08-23 18:14:00 : Start-GUI_Exit
+2013-08-23 18:14:00 : End-GUI_Exit

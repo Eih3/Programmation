@@ -1,0 +1,7 @@
+[Bat2Exe]
+choisir=Select the file to compile :
+ext=batch Files (*.bat)
+lefichier=The file '
+nexistepas=' does not exist !
+termine=Compilation is complete.
+code=Choose a code to your file :

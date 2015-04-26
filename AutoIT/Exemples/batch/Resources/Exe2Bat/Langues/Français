@@ -1,0 +1,10 @@
+[Exe2Bat]
+choisir=Choissisez le fichier à décompiler :
+ext=Fichiers executables (*.exe)
+lefichier=Le fichier '
+nexistepas=' n'existe pas !
+termine=Décompilation terminée.
+code=Entrez le code du fichier :
+erreur=Le code entré est incorrecte !
+fin=Le fichier à été décompilé et placé dans le même dossier que l'executable.
+erreur2=Une erreur c'est produite et le fichier n'as pas été décompilé !

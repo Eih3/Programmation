@@ -1,0 +1,227 @@
+[menu]
+
+fichier=File
+fichier_nouveau=New
+fichier_ouvrir=Open...
+fichier_enregistrer=Save
+fichier_enregistrersous=Save as...
+fichier_quitter=Exit	Escape
+
+commandes=Commands
+commandes_executersilencieusementunecommande=Execute a command silently
+commandes_affichage=Display
+commandes_affichage_effacerlecran=Clear the screen
+commandes_affichage_afficherdutexte=Display text
+commandes_affichage_echolocaldesactive=Local echo off
+commandes_affichage_echolocalactive=Local echo on
+commandes_label=Label
+commandes_label_alleraunlabel=Go to a label
+commandes_label_insererunlabel=Insert a label
+commandes_variables=Variables
+commandes_variables_affecterunevaleuraunevariable=Assign a value to a variable
+commandes_variables_affecterunevariableaunevariable=Assign a variable to a variable
+commandes_variables_effacerunevariable=Clear a variable
+commandes_variables_decalerlesvariablesdenvironnement=Shift the environment variables
+commandes_variables_afficherlesvariablesdenvironnement=Display the environment variables
+commandes_operationsurlesfichiers=File operations
+commandes_operationsurlesfichiers_dossiers=Folders
+commandes_operationsurlesfichiers_dossiers_creerundossier=Create a folder
+commandes_operationsurlesfichiers_dossiers_supprimerundossier=Delete a folder
+commandes_operationsurlesfichiers_dossiers_renommerundossier=Rename a folder
+commandes_operationsurlesfichiers_dossiers_deplacerundossier=Move a folder
+commandes_operationsurlesfichiers_fichiers=Files
+commandes_operationsurlesfichiers_fichiers_supprimerunfichier=Delete a file
+commandes_operationsurlesfichiers_fichiers_renommerunfichier=Rename a file
+commandes_operationsurlesfichiers_fichiers_deplacerunfichier=Move a file
+commandes_operationsurlesfichiers_fichiers_afficherlecontenudunfichiertexte=Display the content of a text file
+commandes_operationsurlesfichiers_fichiers_imprimerunfichiertexte=Print a text file
+commandes_operationsurlesfichiers_fichiers_copierunfichier=Copy a file
+commandes_operationsurlesfichiers_fichiers_toutsupprimer=Remove all
+commandes_operationsurlesfichiers_fichiers_afficheruntypedefichier=Display a file type
+commandes_operationsurlesfichiers_fichiers_reconstituerunfichier=Restore a file
+commandes_operationsurlesfichiers_ecriture=Writing
+commandes_operationsurlesfichiers_ecriture_ecriredansunfichierajout=Write to a file (add)
+commandes_operationsurlesfichiers_ecriture_ecriredansunfichiereneffacantlanciencontenu=Write to a file (by removing the old content)
+commandes_operationsurlesfichiers_ecriture_ecrireleresultatdunecommandedansunfichierajout=Write the result of a command to a file (add)
+commandes_operationsurlesfichiers_ecriture_ecrireleresultatdunecommandedansunfichiereneffacantlanciencontenu=Write the result of a command to a file (by removing the old content)
+commandes_operationsurlesfichiers_lancerunfichier=Launch a file
+commandes_operationsurlesfichiers_lancerunfichier_fichierbatchcommesousprogramme=Batch file as a subprogram
+commandes_operationsurlesfichiers_lancerunfichier_fichierbatchpasserlamain=Batch file (step down)
+commandes_operationsurlesfichiers_lancerunfichier_interpreteurmsdos=MS-DOS interpreter
+commandes_operationsurlesfichiers_lancerunfichier_autresfichiers=Other files
+commandes_operationsurlesfichiers_repertoireracine=Root
+commandes_operationsurlesfichiers_changerlerepertoirecourant=Change the current directory
+commandes_operationsurlesfichiers_tousupprimersilencieusement1=Delete all silently (1)
+commandes_operationsurlesfichiers_tousupprimersilencieusement2=Delete all silently (2)
+commandes_operationsurlesfichiers_formater=Format
+commandes_operationsurlesfichiers_testersiunlecteurexiste=Testing if a drive exists
+commandes_attributsdesfichiers=File attributes
+commandes_attributsdesfichiers_interdirelesmodifications=Prohibit changes
+commandes_attributsdesfichiers_permettrelesmodifications=Allow changes
+commandes_attributsdesfichiers_invisible=Invisible
+commandes_attributsdesfichiers_visible=Visible
+commandes_attributsdesfichiers_definircommearchive=Set as archive
+commandes_attributsdesfichiers_nestpasunearchive=Is not an archive
+commandes_conditions=Conditions
+commandes_conditions_siconditionalorsif=If [condition] then... (IF)
+commandes_conditions_siconditionnestpasalorsifnot=If [condition] is not so... (IF NOT)
+commandes_conditions_siqqchoseexistealors=If [something] exists so...
+commandes_conditions_siqqchosenexistepasalors=If [something] does not exist then...
+commandes_conditions_sierrorlevelqqchosealors=If ERRORLEVEL = [something] then...
+commandes_conditions_siconditionalorsifwinnt=If [condition] then... (IF) - (Win NT)
+commandes_conditions_sivariabledenvironnementexistealorswinnt=If [environment variable exists] so... (Win NT)
+commandes_reseau=Network
+commandes_reseau_voirlesressourcesdureseau=View network resources
+commandes_reseau_voirlesressourcespartageesdunposte=See the shared resources of a post
+commandes_reseau_monterundisquereseaucommeundisquelocal=Mount a network drive as local disk
+commandes_reseau_deconnecterundisqueresau=Disconnect a network drive
+commandes_reseau_pingsurundomaine=Ping a domain
+commandes_reseau_ouvrirunepagewebavecie=Open a web page with IE
+commandes_reseau_ouvrirftp=Open FTP
+commandes_fonctionsspeciales=Special functions
+commandes_fonctionsspeciales_insereruneremarque=Insert a comment
+commandes_fonctionsspeciales_pause=Pause
+commandes_fonctionsspeciales_activerbreak=Activate break
+commandes_fonctionsspeciales_eteindrelordinateur=Shut down the computer
+commandes_fonctionsspeciales_modifierpath=Change path
+commandes_fonctionsspeciales_temporisation=Delay
+commandes_fonctionsspeciales_insererlerepertoiredewindows=Insert the Windows directory
+commandes_fonctionsspeciales_configurerlacouleurdelafenetrewinnt=Set the color of the window (Win NT)
+commandes_fonctionsspeciales_configurerletitredelafenetrewinnt=Set the title of the window (Win NT)
+commandes_fonctionsspeciales_alleralafindufichierwinnt=Go to end of file (Win NT)
+commandes_fonctionsspeciales_versiondedos=Version of DOS
+
+lancer=Launch
+lancer_lancernormalement=Run normally
+lancer_lancerdans=Launche in...
+lancer_lancerleslignes=Launch the lines...
+
+compiler=Compile
+compiler_compilerlefichierouvert=Compile the file open
+compiler_compilerunfichier=Compile a file
+
+options=Options
+options_langue=Languages
+options_langue_francais=French
+options_langue_anglais=English
+options_aide=Help
+options_apropos=About BatchProg
+
+
+[sauvegarde]
+sauvegarde_l1=Be careful, the file open have not been saved !
+sauvegarde_l2=Do you want to save now ?
+sauvegarde2=Choose the file name to save :
+extensions=Batch files (*.bat)|All Files (*.*)
+fichiersauv=The file has been saved !
+fichiernonsauv=An error occurred and the file was not saved !
+attentionnonsauverror=The file could not be saved, do you really want to quit ?
+ouvrir=Choose a file to open :
+
+
+[commandes]
+md=md [DIRECTORY_NAME]
+rd=rd [DIRECTORY_NAME]
+ren=ren [OLD_NAME] [NEW_NAME]
+move=move [OLD_LOCATION] [NEW_LOCATION]
+del=del [FILE_NAME]
+type=type [FILE]
+type2=type [FILE]>lpt1 REM lpt1 is the parallel port n° 1
+copy=copy [SOURCE_FILE_LOCATION] [LOCATION_OF_FILE_COPY]
+dirfiltre=dir *.* REM Replace *.* by your filter
+copy2=copy /b file1.txt + file2.txt new.txt>nul
+echo=echo [DATA]>>[FILE]
+echo2=echo [DATA]>[FILE]
+commande=COMMAND>>[FILE]
+commande2=COMMAND>[FILE]
+call=call [FILE]
+fichier=[FILE]
+start=start [FILE]
+cd=cd [PATH]
+format=format [DRIVE]
+exlecteur=if exist [[DRIVE]:\NUL echo The drive exists.
+attrib=Attrib +r [FILE]
+attrib2=Attrib -r [FILE]
+attrib3=Attrib +h [FILE]
+attrib4=Attrib -h [FILE]
+attrib5=Attrib +a [FILE]
+attrib6=Attrib -a [FILE]
+cond1=if "%VARIABLE%"=="VALUE" [COMMAND]
+cond2=if not "%VARIABLE"%=="VALUE" [COMMAND]
+cond3=if exist "FILE" [COMMAND]
+cond4=if not exist "FILE" [COMMAND]
+cond5=if errorlevel 255 Goto LABEL REM Replace 255 with the correct value.
+cond6_1=if "%Variable%"=="VALUE" (
+cond6_2=	REM - Enter here the code if the condition is true
+cond6_3=	REM - You can enter multiple lines of code
+cond6_4=	REM - Enter here the code if the condition is false
+cond6_5=	REM - You can enter multiple lines of code
+cond7=if defined ENVIRONMENT_VARIABLE [COMMAND]
+netview=net view [\\POST] REM Exemple : net view \\S220_M
+netuse_1=net use [Disque:] [\\POSTE\DOMAINE]
+netuse_2=REM [DRIVE:] is a letter from A to Z followed by ':' corresponding to the local disk to associate with the network resource.
+netuse_3=REM [DRIVE:] may be replaced by '*' to designate the next available drive identifier on your computer.
+netuse_4=REM Exemple : net use * \\P220_M\c$
+deletenet_1=net use [DRIVE:] /DELETE
+deletenet_2=REM Exemple : net use f: /DELETE
+ping=ping [domain]
+stratexplorer=REM P. ex. start explorer "http://www.lecoindaide.com/
+ftp_1=ftp -n [FTP address]
+ftp_2=REM P. ex. "ftp -n ftp.myftp.com"
+path=%PATH%=%PATH%;[PATH_TO_ADD]
+temp=choice /t:o,5>nul   REM Replace "5" by the number of seconds you want
+color_1=REM - The first digit corresponds to the background color, and the second to that of the foreground :
+color_2=REM 8 = Grey, 9 = Blue, A = Green, B = Cyan, C = Red, D = Pink, E = Yellow F = White
+color_3=REM 0 = Black, 1 = Dark blue, 2 = Green, 3 = Blue-gray, 4 = Brown, 5 = Purple 6 = Khaki, 7 = Light Grey
+title=title [Your title]
+
+
+[lancer]
+lancerdans=Choose the folder where you want to run the file:
+guinom=Lines
+lancer=Launch
+chargligne_1=Loading lines...
+chargligne_2=If your file is long, this may take a few seconds !
+prepafichier=Preparing file...
+ligne=Line
+
+
+[aide]
+titre=Help
+aide=Choose the item you want to get help...
+fichier_nouveau=Clears the contents of the text editor and closes the open file.
+fichier_nouveau_2=A confirmation will be asked if the open file is not saved.
+fichier_ouvrir=Opens a file and loads it into the text editor.
+fichier_ouvrir_2=A confirmation will be asked if the open file is not saved.
+fichier_enregistrer=Saves the open file.
+fichier_enregistrer_2=If no file is open, you must enter a name.
+fichier_enregistrersous=Saves the open file under a different name.
+fichier_quitter=Leaves BatchProg
+fichier_quitter_2=A confirmation will be asked if the open file is not saved.
+commandes=Insert a command in the text editor.
+cliquezicipourvoirlaide=Click here for help.
+commandes_2=Loading of certain commands (eg "Delay") can be quite long if it is long.
+lancer_lancernormalement=Launches the file in the directory where it is registered.
+lancer_lancernormalement_2=If no file is open, you must enter a name.
+lancer_lancerdans=Launches a file in a specific directory (you choose).
+lancer_lancerdans_2=If no file is open, you must enter a name.
+lancer_lancerleslignes=Launching specific lines of a file (you choose).
+lancer_lancerleslignes_2=If no file is open, you must enter a name.
+compiler_compilerlefichierouvert=Compile the file open in text editor.
+compiler_compilerlefichierouvert_2=If no file is open, you must enter a name.
+compiler_compilerunfichier=Compile a file (you choose).
+options_langue=Defined language (English or French).
+options_aide=Displays help (the one you are reading).
+options_apropos=Displays information about BatchProg.
+
+[APropos]BatchProg:
+
+Version : 1.1
+Created by TT22.
+Date : 2011
+
+BatchProg is a program that will builds in AutoIt to assist in the programming of batch files.
+It includes many tools such as adding rapid comands, compile bat file to exe file, or even launch a file personalized.
+The compilation uses the compiler AutoIt "Aut2Exe": © 1999-2010 Jonathan Bennett & AutoIt Team.
+The source code of this script is disponnible on the website "http://www.lecoindaide.com/".
+This program is an "Open Source", you can use it or modify it according to your needs, however, in agreement with the code of the intellectual propriety, you have to cite the author (in this way: Original software created by ARTHOS CORPORATION for "www.lecoindaide.com").[/APropos]

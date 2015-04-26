@@ -1,0 +1,9 @@
+1.1 :
+[1] Modification du compilateur pour afficher le nom du programme en haut de la fenêtre DOS.
+[2] Modification du compilateur pour rendre les executables compatibles avec le décompilateur.
+[3] Ajout d'un décompilateur (Exe2Bat).
+[4] Modification de l'emplacement du texte de "A propos de BatchProg".
+[5] Modifications d'erreurs dans l'aide.
+[6] Modification du compilateur pour corriger un problème de l'affichage du nom du programme en haut de la fenêtre DOS.
+[7] Modification du décompilateur pour corriger un problème du titre de la fenêtre DOS.
+[8] Modification de la mise en page de l'aide.

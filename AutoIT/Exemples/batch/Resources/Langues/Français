@@ -1,0 +1,227 @@
+[menu]
+
+fichier=Fichier
+fichier_nouveau=Nouveau
+fichier_ouvrir=Ouvrir...
+fichier_enregistrer=Enregistrer
+fichier_enregistrersous=Enregistrer sous...
+fichier_quitter=Quitter	Échap
+
+commandes=Commandes
+commandes_executersilencieusementunecommande=Exécuter silencieusement une commande
+commandes_affichage=Affichage
+commandes_affichage_effacerlecran=Effacer l'écran
+commandes_affichage_afficherdutexte=Afficher du texte
+commandes_affichage_echolocaldesactive=Echo local désactivé
+commandes_affichage_echolocalactive=Echo local activé
+commandes_label=Label
+commandes_label_alleraunlabel=Aller à un label
+commandes_label_insererunlabel=Insérer un label
+commandes_variables=Variables
+commandes_variables_affecterunevaleuraunevariable=Affecter une valeur à une variable
+commandes_variables_affecterunevariableaunevariable=Affecter une variable à une variable
+commandes_variables_effacerunevariable=Effacer une variable
+commandes_variables_decalerlesvariablesdenvironnement=Décaler les variables d'environnement
+commandes_variables_afficherlesvariablesdenvironnement=Afficher les variables d'environnement
+commandes_operationsurlesfichiers=Opérations sur les fichiers
+commandes_operationsurlesfichiers_dossiers=Dossiers
+commandes_operationsurlesfichiers_dossiers_creerundossier=Créer un dossier
+commandes_operationsurlesfichiers_dossiers_supprimerundossier=Supprimer un dossier
+commandes_operationsurlesfichiers_dossiers_renommerundossier=Renommer un dossier
+commandes_operationsurlesfichiers_dossiers_deplacerundossier=Déplacer un dossier
+commandes_operationsurlesfichiers_fichiers=Fichiers
+commandes_operationsurlesfichiers_fichiers_supprimerunfichier=Supprimer un fichier
+commandes_operationsurlesfichiers_fichiers_renommerunfichier=Renommer un fichier
+commandes_operationsurlesfichiers_fichiers_deplacerunfichier=Déplacer un fichier
+commandes_operationsurlesfichiers_fichiers_afficherlecontenudunfichiertexte=Afficher le contenu d'un fichier texte
+commandes_operationsurlesfichiers_fichiers_imprimerunfichiertexte=Imprimer un fichier texte
+commandes_operationsurlesfichiers_fichiers_copierunfichier=Copier un fichier
+commandes_operationsurlesfichiers_fichiers_toutsupprimer=Tout supprimer
+commandes_operationsurlesfichiers_fichiers_afficheruntypedefichier=Afficher un type de fichier
+commandes_operationsurlesfichiers_fichiers_reconstituerunfichier=Recontituer un fichier
+commandes_operationsurlesfichiers_ecriture=Ecriture
+commandes_operationsurlesfichiers_ecriture_ecriredansunfichierajout=Ecrire dans un fichier (ajout)
+commandes_operationsurlesfichiers_ecriture_ecriredansunfichiereneffacantlanciencontenu=Ecrire dans un fichier (en effaçant l'ancien contenu)
+commandes_operationsurlesfichiers_ecriture_ecrireleresultatdunecommandedansunfichierajout=Ecrire le résultat d'une commande dans un fichier (ajout)
+commandes_operationsurlesfichiers_ecriture_ecrireleresultatdunecommandedansunfichiereneffacantlanciencontenu=Ecrire le résultat d'une commande dans un fichier (en effaçant l'ancien contenu)
+commandes_operationsurlesfichiers_lancerunfichier=Lancer un fichier
+commandes_operationsurlesfichiers_lancerunfichier_fichierbatchcommesousprogramme=Fichier batch comme sous-programme
+commandes_operationsurlesfichiers_lancerunfichier_fichierbatchpasserlamain=Fichier batch (passer la main)
+commandes_operationsurlesfichiers_lancerunfichier_interpreteurmsdos=Interpreteur MS-DOS
+commandes_operationsurlesfichiers_lancerunfichier_autresfichiers=Autres fichiers
+commandes_operationsurlesfichiers_repertoireracine=Répertoire racine
+commandes_operationsurlesfichiers_changerlerepertoirecourant=Changer le répertoire courant
+commandes_operationsurlesfichiers_tousupprimersilencieusement1=Tout supprimer silencieusement (1)
+commandes_operationsurlesfichiers_tousupprimersilencieusement2=Tout supprimer silencieusement (2)
+commandes_operationsurlesfichiers_formater=Formater
+commandes_operationsurlesfichiers_testersiunlecteurexiste=Tester si un lecteur existe
+commandes_attributsdesfichiers=Attributs des fichiers
+commandes_attributsdesfichiers_interdirelesmodifications=Interdire les modifications
+commandes_attributsdesfichiers_permettrelesmodifications=Permettre les modifications
+commandes_attributsdesfichiers_invisible=Invisible
+commandes_attributsdesfichiers_visible=Visible
+commandes_attributsdesfichiers_definircommearchive=Définir comme archive
+commandes_attributsdesfichiers_nestpasunearchive=N'est pas une archive
+commandes_conditions=Conditions
+commandes_conditions_siconditionalorsif=Si [condition] alors... (IF)
+commandes_conditions_siconditionnestpasalorsifnot=Si [condition] n'est pas alors... (IF NOT)
+commandes_conditions_siqqchoseexistealors=Si [qqchose] existe alors...
+commandes_conditions_siqqchosenexistepasalors=Si [qqchose] n'existe pas alors...
+commandes_conditions_sierrorlevelqqchosealors=Si ERRORLEVEL = [qqchose] alors...
+commandes_conditions_siconditionalorsifwinnt=Si [condition] alors... (IF) - (Win NT)
+commandes_conditions_sivariabledenvironnementexistealorswinnt=Si [variable d'environnement existe] alors... (Win NT)
+commandes_reseau=Réseau
+commandes_reseau_voirlesressourcesdureseau=Voir les ressources du réseau
+commandes_reseau_voirlesressourcespartageesdunposte=Voir les ressources partagées d'un poste
+commandes_reseau_monterundisquereseaucommeundisquelocal=Monter un disque réseau comme disque local
+commandes_reseau_deconnecterundisqueresau=Déconnecter un disque réseau
+commandes_reseau_pingsurundomaine=Ping sur un domaine
+commandes_reseau_ouvrirunepagewebavecie=Ouvrir une page web avec IE
+commandes_reseau_ouvrirftp=Ouvrir FTP
+commandes_fonctionsspeciales=Fonctions spéciales
+commandes_fonctionsspeciales_insereruneremarque=Insérer une remarque
+commandes_fonctionsspeciales_pause=Pause
+commandes_fonctionsspeciales_activerbreak=Activer break
+commandes_fonctionsspeciales_eteindrelordinateur=Eteindre l'ordinateur
+commandes_fonctionsspeciales_modifierpath=Modifier path
+commandes_fonctionsspeciales_temporisation=Temporisation
+commandes_fonctionsspeciales_insererlerepertoiredewindows=Insérer le répertoire de Windows
+commandes_fonctionsspeciales_configurerlacouleurdelafenetrewinnt=Configurer la couleur de la fenêtre (Win NT)
+commandes_fonctionsspeciales_configurerletitredelafenetrewinnt=Configurer le titre de le fenêtre (Win NT)
+commandes_fonctionsspeciales_alleralafindufichierwinnt=Aller à la fin du fichier (Win NT)
+commandes_fonctionsspeciales_versiondedos=Version de DOS
+
+lancer=Lancer
+lancer_lancernormalement=Lancer normalement
+lancer_lancerdans=Lancer dans...
+lancer_lancerleslignes=Lancer les lignes...
+
+compiler=Compiler
+compiler_compilerlefichierouvert=Compiler le fichier ouvert
+compiler_compilerunfichier=Compiler un fichier
+
+options=Options
+options_langue=Langues
+options_langue_francais=Français
+options_langue_anglais=Anglais
+options_aide=Aide
+options_apropos=À propos de BatchProg
+
+
+[sauvegarde]
+sauvegarde_l1=Attention, le fichier ouvert n'as pas été sauvegardé !
+sauvegarde_l2=Voulez-vous le sauvegarder maintenant ?
+sauvegarde2=Choisissez le nom du fichier à enregistrer :
+extensions=Fichiers batch (*.bat)|Tous les fichiers (*.*)
+fichiersauv=Le fichier a été sauvegardé !
+fichiernonsauv=Une erreur s'est produite et le fichier n'a pas été sauvegardé !
+attentionnonsauverror=Le fichier n'a pas pu être sauvegardé, voulez-vous vraiment quitter ?
+ouvrir=Choisissez un fichier à ouvrir :
+
+
+[commandes]
+md=md [NOM_DU_REPERTOIRE]
+rd=rd [NOM_DU_REPERTOIRE]
+ren=ren [ANCIEN_NOM] [NOUVEAU_NOM]
+move=move [ANCIEN_EMPLACEMENT] [NOUVEL_EMPLACEMENT]
+del=del [NOM_DU_FICHIER]
+type=type [FICHIER]
+type2=type [FICHIER]>lpt1 REM lpt1 est le port parallele n°1
+copy=copy [EMPLACEMENT_DU_FICHIER_SOURCE] [EMPLACEMENT_DU_FICHIER_COPIE]
+dirfiltre=dir *.* REM Remplacez *.* par votre filtre
+copy2=copy /b fichier1.txt + fichier2.txt nouveau.txt>nul
+echo=echo [Données]>>[FICHIER]
+echo2=echo [Données]>[FICHIER]
+commande=COMMANDE>>[FICHIER]
+commande2=COMMANDE>[FICHIER]
+call=call [FICHIER]
+fichier=[FICHIER]
+start=start [FICHIER]
+cd=cd [CHEMIN]
+format=format [LECTEUR]
+exlecteur=if exist [LECTEUR]:\NUL echo Le lecteur existe.
+attrib=Attrib +r [FICHIER]
+attrib2=Attrib -r [FICHIER]
+attrib3=Attrib +h [FICHIER]
+attrib4=Attrib -h [FICHIER]
+attrib5=Attrib +a [FICHIER]
+attrib6=Attrib -a [FICHIER]
+cond1=if "%VARIABLE%"=="VALEUR" [COMMANDE]
+cond2=if not "%VARIABLE"%=="VALEUR" [COMMANDE]
+cond3=if exist "FICHIER" [COMMANDE]
+cond4=if not exist "FICHIER" [COMMANDE]
+cond5=if errorlevel 255 Goto LABEL REM Remplacez 255 par la bonne valeur.
+cond6_1=if "%Variable%"=="Valeur" (
+cond6_2=	REM - Entrez ici le code si la condition est vraie
+cond6_3=	REM - Vous pouvez entrer du code sur plusieures lignes
+cond6_4=	REM - Entrez ici le code si la condition est fausse
+cond6_5=	REM - Vous pouvez entrer du code sur plusieures lignes
+cond7=if defined Variable_environnement [Commande]
+netview=net view [\\POSTE] REM Exemple : net view \\S220_M
+netuse_1=net use [Disque:] [\\POSTE\DOMAINE]
+netuse_2=REM [Disque:] représente une lettre de A à Z suivie de ':' correspondant au disque local à associer à la ressource réseau.
+netuse_3=REM [Disque:] peut-être remplacé par '*' pour désigner le prochain identificateur de disque disponible sur votre poste.
+netuse_4=REM Exemple : net use * \\P220_M\c$
+deletenet_1=net use [disque:] /DELETE
+deletenet_2=REM Exemple : net use f: /DELETE
+ping=ping [domaine]
+stratexplorer=REM P. ex. start explorer "http://www.lecoindaide.com/
+ftp_1=ftp -n [Adresse FTP]
+ftp_2=REM P. ex. "ftp -n ftp.monftp.com"
+path=%PATH%=%PATH%;[CHEMIN_A_AJOUTER]
+temp=choice /t:o,5>nul   REM Remplacez "5" par le délai en secondes de votre choix
+color_1=REM - Le premier chiffre correspond à la couleur de fond, et le second à celui de premier plan :
+color_2=REM 8 = Gris, 9 = Bleu, A = Vert, B = Cyan, C = Rouge, D = Rose, E = Jaune, F = Blanc 
+color_3=REM 0 = Noir, 1 = Bleu foncé, 2 = Vert, 3 = Bleu-gris, 4 = Marron, 5 = Pourpre, 6 = Kaki, 7 = Gris clair
+title=title [Votre titre]
+
+
+[lancer]
+lancerdans=Choisissez le dossier où vous souhaitez lancer le fichier :
+guinom=Lignes
+lancer=Lancer
+chargligne_1=Chargement des lignes...
+chargligne_2=Si votre fichier est long, cette opération peut prendre quelques secondes !
+prepafichier=Préparation du fichier...
+ligne=Ligne
+
+
+[aide]
+titre=Aide
+aide=Choisisez l'élément dont vous souhaitez obtenir l'aide...
+fichier_nouveau=Efface le contenu de l'éditeur de texte et ferme le fichier ouvert.
+fichier_nouveau_2=Une confirmation vous sera demandé si le fichier ouvert n'est pas sauvegardé.
+fichier_ouvrir=Ouvre un fichier et le charge dans l'éditeur de texte.
+fichier_ouvrir_2=Une confirmation vous sera demandé si le fichier ouvert n'est pas sauvegardé.
+fichier_enregistrer=Enregistre le fichier ouvert.
+fichier_enregistrer_2=Si aucun fichier n'est ouvert, vous devrez entrer un nom.
+fichier_enregistrersous=Enregistre le fichier ouvert sous un autre nom.
+fichier_quitter=Quitte BatchProg
+fichier_quitter_2=Une confirmation vous sera demandé si le fichier ouvert n'est pas sauvegardé.
+commandes=Insert une commande dans l'éditeur de texte.
+cliquezicipourvoirlaide=Cliquez ici pour voir l'aide.
+commandes_2=Le chargement de certaines commandes (ex : "Temporisation") peut être assez long si elle est longue.
+lancer_lancernormalement=Lance le fichier dans le répertoire où il est enregistré.
+lancer_lancernormalement_2=Si aucun fichier n'est ouvert, vous devrez entrer un nom.
+lancer_lancerdans=Lance un fichier dans un répertoire spécifique (que vous choisirez).
+lancer_lancerdans_2=Si aucun fichier n'est ouvert, vous devrez entrer un nom.
+lancer_lancerleslignes=Lance les lignes spécifiques d'un fichier (que vous choisirez).
+lancer_lancerleslignes_2=Si aucun fichier n'est ouvert, vous devrez entrer un nom.
+compiler_compilerlefichierouvert=Compile le fichier ouvert dans l'éditeur de texte.
+compiler_compilerlefichierouvert_2=Si aucun fichier n'est ouvert, vous devrez entrer un nom.
+compiler_compilerunfichier=Compile un fichier (que vous choisirez).
+options_langue=Définis la langue (Français ou Anglais).
+options_aide=Affiche l'aide (celle que vous êtes entrain de lire).
+options_apropos=Affiche des informations sur BatchProg.
+
+[APropos]BatchProg :
+
+Version : 1.1
+Créé par TT22.
+Date : 2011
+
+BatchProg est un programme devellopé en AutoIt qui à pour but d'aider à la programmation de fichiers Batch.
+Il comprend de nombreux outils comme l'ajout rapide de commandes, la compilation de fichier bat en fichier exe ou même un lancement de fichier personalisé.
+La compilation utilise le compilateur AutoiIt "Aut2Exe" : ©1999-2010 Jonathan Bennett & AutoIt Team.
+Le code source de ce script est disponnible sur le site "http://www.lecoindaide.com/".
+Ce programme est un "Open Source", vous pouvez donc l'utiliser ou le modifier selon vos besoins, néanmoins, en accord avec le code de la propriétée intellectuelle, vous êtes obligé de citer l'auteur (de cette facon : Logiciel original créé par ARTHOS CORPORATION pour "www.lecoindaide.com").[/APropos]

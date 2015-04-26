@@ -1,0 +1,7 @@
+[Bat2Exe]
+choisir=Choisissez le fichier à compiler :
+ext=Fichiers batch (*.bat)
+lefichier=Le fichier '
+nexistepas=' n'existe pas !
+termine=Compilation terminée.
+code=Choisissez un code à votre fichier :
